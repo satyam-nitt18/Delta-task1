@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Hone Your Intuition</string>
+    <string name="saved_high_score_key">567</string>
 </resources>
